@@ -1,0 +1,18 @@
+.table__cell {
+  width: 250px;
+}
+
+.table__cell_margin_m {
+  margin-top: 60px;
+}
+
+.table__cell_margin_l {
+  margin-top: 80px;
+}
+.table__cell_theme_dark {
+  color: #fff;
+}
+
+.table__cell_size_s {
+  width: 200px;
+}
